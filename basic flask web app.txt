@@ -1,0 +1,6 @@
+Create a new project in Pycharm
+add flask to the project
+create test and requirements (this is a text file) add below venu
+right click on test to run per screenshots
+
+https://medium.com/@mushtaque87/flask-in-pycharm-community-edition-c0f68400d91e
